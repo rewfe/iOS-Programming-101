@@ -1,0 +1,18 @@
+//
+//  ViewController.h
+//  SocialSharing
+//
+//  Created by Admin on 21.05.15.
+//  Copyright (c) 2015 Admin. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+- (IBAction)postToTwitter:(id)sender;
+
+- (IBAction)postToFacebook:(id)sender;
+
+@end
+
